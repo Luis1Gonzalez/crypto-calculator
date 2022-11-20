@@ -37,7 +37,7 @@ setCharging(true)
 
   
   return (
-    <div className="bg-sky-900 p-3 h-screen text-yellow-500 flex flex-col items-center min-w-[320px] md:text-3xl">
+    <div className="bg-sky-900 p-3 h-full text-yellow-500 flex flex-col items-center min-w-[320px] md:text-3xl">
       
       <div className='h-[130px]'>
         <img className='h-[100%]' src={logo} alt="logo de la app" />
